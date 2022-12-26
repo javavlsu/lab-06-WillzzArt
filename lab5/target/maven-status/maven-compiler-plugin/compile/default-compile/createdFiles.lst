@@ -1,0 +1,8 @@
+ru\vlsu\ispi\dao\DAOGroups.class
+ru\vlsu\ispi\beans\Student.class
+ru\vlsu\ispi\dao\DAOStudents.class
+ru\vlsu\ispi\beans\Group.class
+ru\vlsu\ispi\dao\Configs.class
+ru\vlsu\ispi\dao\DAO.class
+ru\vlsu\ispi\MainController.class
+ru\vlsu\ispi\dao\Const.class
